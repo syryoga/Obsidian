@@ -1,0 +1,3 @@
+Active Directory ist ein Verzeichnisdienst, der von Microsoft für Windows-Netzwerke entwickelt wurde. Es verwaltet Benutzer, Gruppen, Computer und andere Ressourcen und stellt eine gemeinsame Struktur für Authentifizierung und Autorisierung bereit. Es unterstützt auch das LDAP (Lightweight Directory Access Protocol) und ermöglicht so die Integration mit anderen Anwendungen und Diensten.
+
+Objekte in Active Directory sind Elemente wie Benutzer, Gruppen, Computer und organisatorische Einheiten, die bestimmte Attribute besitzen. Beispiele für Attribute sind Namen, Passwörter, Adressen und Gruppenmitgliedschaften.

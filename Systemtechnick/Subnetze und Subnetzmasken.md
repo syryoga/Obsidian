@@ -1,0 +1,3 @@
+Subnetze sind Teilbereiche eines Netzwerks, die es ermöglichen, ein größeres Netzwerk in kleinere Teile zu unterteilen. Dies verbessert die Organisation und Verwaltbarkeit von Netzwerken und erleichtert die Überwachung und Übertragung von Daten.
+
+Eine Subnetzmaske ist eine numerische Reihe, die verwendet wird, um den Teil einer IP-Adresse zu identifizieren, der die Netzwerk-ID darstellt, und den Teil, der die Host-ID darstellt. Die Subnetzmaske wird verwendet, um den Traffic innerhalb eines Subnetzes zu routen und zu kontrollieren, wie Daten zu und von anderen Netzwerken übertragen werden.

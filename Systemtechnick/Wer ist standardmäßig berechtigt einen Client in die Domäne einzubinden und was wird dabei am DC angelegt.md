@@ -1,0 +1,3 @@
+Standardmäßig ist ein Benutzer mit Administratorenrechten berechtigt, einen Client in eine Domäne einzubinden. Hierbei wird auf dem Domänencontroller (DC) ein Computerobjekt für den neuen Client angelegt, das Informationen wie Computername, IP-Adresse und Betriebssystem enthält.
+
+Das Hinzufügen eines Clients zur Domäne ermöglicht eine zentralisierte Verwaltung und Überwachung, insbesondere bei der Verwendung von Domänenrichtlinien und -diensten. Es erleichtert auch die Verwaltung von Benutzerkonten und Berechtigungen, da sie einmal für die gesamte Domäne konfiguriert werden können und nicht auf jedem einzelnen Client separat.

@@ -1,0 +1,2 @@
+#iterativ
+Iterativ bezieht sich auf einen schrittweisen, wiederholten Prozess, bei dem Aufgaben oder Schritte in mehreren Iterationen durchlaufen werden, wobei jede Iteration auf den vorherigen aufbaut und Anpassungen ermöglicht.

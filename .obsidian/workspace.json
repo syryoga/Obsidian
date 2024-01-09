@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "d5b67ebdd0760e99",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b3607305e5ce6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4dc8df174c674c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b5bc4529bb3430e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5b831649264b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab795df7c3583d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46af2a19f78eda84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae963a199f52d962",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f253932de2b48d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "66246641151bb376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4943815cba6ea99e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1620a5187246957f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53857037548f32ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36435267857907d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ac4dc8df174c674c",
+  "lastOpenFiles": [
+    "Systemtechnick/Unterschiede zwischen Arbeitsgruppe und Domäne.md",
+    "Systemtechnick/Fachbegriffe erklären Forest, Tree, Domain, OU.md",
+    "Systemtechnick/Wer ist standardmäßig berechtigt einen Client in die Domäne einzubinden und was wird dabei am DC angelegt.md",
+    "Systemtechnick/Aktuelle Server Betriebssysteme aufzählen.md",
+    "Systemtechnick/Was ist das Active Directory (Definition, incl. LDAP, Objekte, Attribute).md",
+    "Systemtechnick/Subnetze und Subnetzmasken.md",
+    "Systemtechnick/Router und Routingprozess.md",
+    "Systemtechnick/Wo liegt der Unterschied zwischen Hardware-und Software-Router.md",
+    "Systemtechnick/Wo liegt der Unterschied zwischen Hardware-und Software-Router_.md",
+    "Systemtechnick/Wo liegen die Unterschiede zwischen einem Home-Router und einer Hardware-Firewall für Firmen.md"
+  ]
+}

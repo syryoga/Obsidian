@@ -1,0 +1,1 @@
+"Sequenziell" bedeutet, dass etwas in einer festgelegten Reihenfolge oder nacheinander erfolgt.

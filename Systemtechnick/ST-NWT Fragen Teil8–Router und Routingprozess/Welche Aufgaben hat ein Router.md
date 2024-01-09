@@ -1,0 +1,2 @@
+EinRouter ist dafür da,Netzwerke zu verbindenodergroße Netze in Subnetze unterteilen.
+Im Heimanwenderbereich verbindet der Router das lokale Netzwerk (LAN) mit dem Internet (WAN). Anhand der Ziel-IP-Adressen entscheidet der Router wohin bzw. an welches Interface das Paket gesendet werden muss. Zustellung anhand der Routingtabelle(OSI 3)

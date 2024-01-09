@@ -1,0 +1,2 @@
+Ein NAT-Router für den Heimbereich kann durch Definieren von Regeln zu einer Firewall gemacht werden.
+Eine Hardware-Firewallfür Firmen bietet allerdingsnoch zusätzliche Funktionen wie VPN-Server, DMZ, Intrusion Detection, Deep Packet Inspection, QoS, A-Integration, Content-Filter, usw.

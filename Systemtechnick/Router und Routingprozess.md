@@ -1,0 +1,3 @@
+Ein Router ist ein Gerät, das verwendet wird, um Datenpakete zwischen Netzwerken zu übertragen. Es ermöglicht einer Vielzahl von Geräten, miteinander zu kommunizieren, indem es die besten Pfade für den Datenverkehr bestimmt.
+
+Der Routingprozess ist der Prozess, bei dem ein Router entscheidet, welchen Pfad er verwenden soll, um Datenpakete von einem Netzwerk zu einem anderen zu übertragen. Dieser Prozess beinhaltet die Verwendung von Routinginformationen, um eine Routing-Tabelle zu erstellen, und die Verwendung dieser Tabelle, um den besten Pfad für den Datenverkehr zu bestimmen. Wenn ein Router ein Datenpaket erhält, überprüft er seine Routing-Tabelle und sendet das Paket an den nächsten Hop (Netzwerkgerät), bis es das Ziel erreicht hat.
